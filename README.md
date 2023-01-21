@@ -7,7 +7,7 @@
 Explore US bikeshare data
 
 ### Description
-Describe what your project is about and what it does
+focused on pandas library and simple statistical methods to perform descriptive analysis on the bike share data from US cities. To display information such as most popular days or most common stations.
 
 ### Files used
 Include the files used
