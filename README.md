@@ -10,7 +10,10 @@ Explore US bikeshare data
 focused on pandas library and simple statistical methods to perform descriptive analysis on the bike share data from US cities. To display information such as most popular days or most common stations.
 
 ### Files used
-Include the files used
+1- main.py
+2- chicago.csv
+3- new_york_city.csv
+4- washington.csv
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
