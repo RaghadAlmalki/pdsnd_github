@@ -11,9 +11,10 @@ focused on pandas library and simple statistical methods to perform descriptive 
 
 ### Files used
 1- main.py
-2- chicago.csv
-3- new_york_city.csv
-4- washington.csv
+2- washington.csv
+3- chicago.csv
+4- new_york_city.csv
+
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
