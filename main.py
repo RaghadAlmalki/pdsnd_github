@@ -19,7 +19,7 @@ def get_filters():
         if city not in CITY_DATA.keys():
             print("Sorry you choose city that is not include in our data, please choose another city. ")
 
-    MONTH_LIST = ['january', 'february', 'march', 'april', 'may', 'june', 'all']
+    MONTH_LIST = ['january', 'february', 'march', 'april', 'may', 'june','july', 'all']
     month = ''
     while month not in MONTH_LIST:
         print("Which month? january, february, march, april, may, june or all")
