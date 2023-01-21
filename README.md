@@ -17,4 +17,4 @@ focused on pandas library and simple statistical methods to perform descriptive 
 
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+https://github.com/adelabuhashim/Explore-US-Bikeshare-Data
